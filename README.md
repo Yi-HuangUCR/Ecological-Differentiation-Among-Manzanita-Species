@@ -9,4 +9,4 @@ In this project, I used Ecological Niche Modeling and clustering analysis to inv
 
 3_niche_comparison.R composes three analysis: (1) extract environmental data from the presence pixel of distribution maps for every species. (2) use hypervolume method to quantify the niche of every species and generate a niche-comparison matrix by calculating pair-wise niche comparison. (3) apply hierachy clustering and k-means clustering to identify ecological distinct groups and assign species into those groups.
 
-4-1_Classification.R and 4-2_Decision_tree.ipynb is scripts for multicalss classification analysis to intrepret what environmental factors distingusih these ecological distinct groups identifed in the clustering analysis.
+4-1_Classification.R and 4-2_Decision_tree.ipynb are used for multicalss classification analysis to intrepret what environmental factors distingusih these ecological distinct groups identifed in the clustering analysis.
