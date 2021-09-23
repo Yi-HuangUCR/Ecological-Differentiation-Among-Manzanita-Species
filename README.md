@@ -1,5 +1,6 @@
 # Ecological Differentiation Among Manzanita Species
 In this project, I used Ecological Niche Modeling and clustering analysis to investigate the environmental differentiation among manzanita species.
+
 #Overview
 1_ENMTML_MSDS.R is used to construct the ecological niche models and obtain sepecies distribution maps of manzania species that have more than 10 occurence data. 
 2_Fixed_ESM_methods.R is used to construt the ecological niche models and obtain sepecies distribution maps of manzanita species that have less than 10 occurence data. Remember to create a new R project for running this code.
